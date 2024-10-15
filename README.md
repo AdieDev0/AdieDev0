@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e9/b4/11/e9b4118e01a37a7b6054be93b54f4792.png" alt="Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/09/c3/aa/09c3aa938f5ddd5180105440d394d8be.gif" alt="GIF Banner" width="100%" />
 </div>
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">a full-stack developer specializing in modern web technologies like React, Node.js, Express.js, and MongoDB. I enjoy building efficient, scalable applications and styling them with Tailwind CSS.</h3>
