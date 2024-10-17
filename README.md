@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://media.tenor.com/NbzuesZ98n4AAAAC/banner-discord.gif" alt="GIF Banner" width="100%" />
 </div>
 <h1 align="center">Hi 👋, I'm Adrian</h1>
