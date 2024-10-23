@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <img src="https://media.tenor.com/NbzuesZ98n4AAAAC/banner-discord.gif" alt="GIF Banner" width="100%" />
 </div>
 
