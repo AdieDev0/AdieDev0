@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Adrian</h1>
 <h3 align="center">
   A full-stack developer specializing in modern web technologies like React, Node.js, Express.js, and MongoDB. 
-  I enjoy building efficient, scalable applications and styling them with Tailwind CSS.
+  I enjoy building efficient, scalable applications and styling them with Tailwind CSS..
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/WWt-bBPOct0AAAAj/cyberkongz-kongz.gif" style="margin: 20px;" />
