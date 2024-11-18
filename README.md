@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Adrian Rey</h1>
 <h3 align="center">
-  A full-stack developer specializing in modern web technologies like React, Node.js, Express.js, and MongoDB. 
+  A Web Developer specializing in modern web technologies like React, Node.js, Express.js, and MongoDB. 
   I enjoy building efficient, scalable applications and styling them with Tailwind CSS..
 </h3>
 
