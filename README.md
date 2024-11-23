@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/NbzuesZ98n4AAAAC/banner-discord.gif" alt="GIF Banner" width="100%" />
 </div>
 
-<h1 align="center">Hi I'm Adrian Rey</h1>
+<h1 align="center">Hi, I'm Adrian Rey</h1>
 <h3 align="center">
   A Web Developer specializing in modern web technologies like React, Node.js, Express.js, and MongoDB. 
   I enjoy building efficient, scalable applications and styling them with Tailwind CSS..
