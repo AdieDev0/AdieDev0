@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Adrian Rey</h1>
 <h3 align="center">
   A Web Developer specializing in modern web technologies like React, Node.js, Express.js, and MongoDB. 
-  I enjoy building efficient, scalable applications and styling them with Tailwind CSS..
+  I enjoy building efficient, scalable applications and styling them with Tailwind CSS.
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/WWt-bBPOct0AAAAj/cyberkongz-kongz.gif" style="margin: 20px;" />
@@ -85,7 +85,7 @@
 
 <img align="left" alt="Coding" width="400" src="https://giffiles.alphacoders.com/163/163466.gif" style="margin: 20px;" />
 
-<div align="right">
+<div align="right" style="background-color: violet; color: black; padding: 20px; border-radius: 10px; max-width: 600px;">
   <img src="https://github-readme-stats.vercel.app/api?username=adiedev0&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiedev0&" alt="GitHub Streak" />
 </div>
