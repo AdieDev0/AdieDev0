@@ -83,8 +83,6 @@
   </a>
 </p>
 
-<img align="left" alt="Coding" width="400" src="https://giffiles.alphacoders.com/163/163466.gif" style="margin: 20px;" />
-
 <div align="right" style="background-color: violet; color: black; padding: 20px; border-radius: 10px; max-width: 600px;">
   <img src="https://github-readme-stats.vercel.app/api?username=adiedev0&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiedev0&" alt="GitHub Streak" />
