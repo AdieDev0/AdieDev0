@@ -1,91 +1,47 @@
+# Hi there! I'm Adrian Rey 👋
+
+## 🚀 Full Stack Web Developer | MERN Stack Enthusiast
+
+### About Me
+I'm a passionate web developer specializing in crafting efficient and scalable web applications using modern technologies. With expertise in React, Node.js, Express.js, and MongoDB, I transform complex ideas into elegant digital solutions.
+
+### 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+### 🌟 Current Focus
+- 🔭 Deep diving into the MERN Stack
+- 🌐 Building scalable web applications
+- 🎨 Creating responsive and intuitive user interfaces
+
+### 🏆 GitHub Stats
 <div align="center">
-  <img src="https://media.tenor.com/NbzuesZ98n4AAAAC/banner-discord.gif" alt="GIF Banner" width="100%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adiedev0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adiedev0&theme=radical"/>
 </div>
 
-<h1 align="center">Hi, I'm Adrian Rey</h1>
-<h3 align="center">
-  A Web Developer specializing in modern web technologies like React, Node.js, Express.js, and MongoDB. 
-  I enjoy building efficient, scalable applications and styling them with Tailwind CSS..
-</h3>
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrian_Rey-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-barriosadrian56@gmail.com-red?style=flat-square&logo=gmail)](mailto:barriosadrian56@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Here-green?style=flat-square)](https://adie-portfolio.vercel.app/#/about)
+[![GitHub](https://img.shields.io/badge/GitHub-AdieDev0-black?style=flat-square&logo=github)](https://github.com/AdieDev0)
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/WWt-bBPOct0AAAAj/cyberkongz-kongz.gif" style="margin: 20px;" />
+### 🛠️ Tools & Technologies
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=adiedev0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+### 💡 Quick Facts
+- 🌍 Open to collaboration on interesting projects
+- 📚 Always learning and exploring new technologies
+- 🎯 Goal: Contributing to innovative web solutions
 
-<ul align="left" style="list-style-type: none;">
-  <li>🔭 I’m currently learning <strong>MERN Stack</strong></li>
-  <li>🌐 All of my projects are available at <a href="https://github.com/AdieDev0">GitHub</a></li>
-  <li>📫 How to reach me: <a href="mailto:barriosadrian56@gmail.com">barriosadrian56@gmail.com</a></li>
-  <li>📄 Know about my experiences: <a href="https://adie-portfolio.vercel.app/#/about">Portfolio</a></li>
-</ul>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/feed/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/adrey.barrios" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/_adie.00/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  </a>
-</p>
-
-<img align="left" alt="Coding" width="400" src="https://giffiles.alphacoders.com/163/163466.gif" style="margin: 20px;" />
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiedev0&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiedev0&" alt="GitHub Streak" />
-</div>
+*Turning coffee into code, one commit at a time* ☕️👨‍💻
