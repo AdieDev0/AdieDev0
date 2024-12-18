@@ -2,42 +2,40 @@
   <img src="https://media.tenor.com/NbzuesZ98n4AAAAC/banner-discord.gif" alt="GIF Banner" width="100%" />
 </div>
 
-<h1 align="center" style="font-size: 2.5rem;">Hi, I'm <span style="color:#7C3AED;">Adrian Rey</span></h1>
-<h3 align="center" style="font-size: 1.25rem; max-width: 800px; margin: auto; line-height: 1.5;">
-  A <span style="color:#7C3AED;">Web Developer</span> specializing in modern technologies like React, Node.js, Express.js, and MongoDB. 
-  I enjoy building efficient, scalable applications styled with Tailwind CSS.
+<h1 align="center">Hi, I'm Adrian Rey</h1>
+<h3 align="center">
+  A Web Developer specializing in modern web technologies like React, Node.js, Express.js, and MongoDB. 
+  I enjoy building efficient, scalable applications and styling them with Tailwind CSS..
 </h3>
 
-<div style="display: flex; flex-direction: column; align-items: center; margin: 30px 0;">
-  <img alt="Coding" width="400" src="https://media.tenor.com/WWt-bBPOct0AAAAj/cyberkongz-kongz.gif" style="border-radius: 10px; margin: 20px;" />
-  <div style="text-align: left; max-width: 600px; padding: 20px;">
-    <p>
-      <img src="https://komarev.com/ghpvc/?username=adiedev0&label=Profile%20views&color=7C3AED&style=flat" alt="Profile views" />
-    </p>
-    <ul style="list-style-type: none; padding: 0;">
-      <li>🔭 I’m currently learning <strong>MERN Stack</strong></li>
-      <li>🌐 All of my projects are available on <a href="https://github.com/AdieDev0" style="color:#7C3AED; text-decoration: none;">GitHub</a></li>
-      <li>📫 How to reach me: <a href="mailto:barriosadrian56@gmail.com" style="color:#7C3AED; text-decoration: none;">barriosadrian56@gmail.com</a></li>
-      <li>📄 Know about my experiences: <a href="https://adie-portfolio.vercel.app/#/about" style="color:#7C3AED; text-decoration: none;">Portfolio</a></li>
-    </ul>
-  </div>
-</div>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/WWt-bBPOct0AAAAj/cyberkongz-kongz.gif" style="margin: 20px;" />
 
-<h3 align="left" style="margin: 20px 0 10px; color: #7C3AED;">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/feed/" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=adiedev0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<ul align="left" style="list-style-type: none;">
+  <li>🔭 I’m currently learning <strong>MERN Stack</strong></li>
+  <li>🌐 All of my projects are available at <a href="https://github.com/AdieDev0">GitHub</a></li>
+  <li>📫 How to reach me: <a href="mailto:barriosadrian56@gmail.com">barriosadrian56@gmail.com</a></li>
+  <li>📄 Know about my experiences: <a href="https://adie-portfolio.vercel.app/#/about">Portfolio</a></li>
+</ul>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/feed/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/adrey.barrios" target="_blank">
+  <a href="https://www.facebook.com/adrey.barrios" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/_adie.00/" target="_blank">
+  <a href="https://www.instagram.com/_adie.00/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left" style="margin: 20px 0 10px; color: #7C3AED;">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40" />
   </a>
@@ -85,9 +83,9 @@
   </a>
 </p>
 
-<div align="center" style="margin: 30px;">
-  <div style="background-color: #7C3AED; padding: 20px; border-radius: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=adiedev0&show_icons=true&locale=en&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=7C3AED" alt="GitHub Stats" style="margin-bottom: 20px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiedev0&theme=highcontrast&background=7C3AED" alt="GitHub Streak" />
-  </div>
+<img align="left" alt="Coding" width="400" src="https://giffiles.alphacoders.com/163/163466.gif" style="margin: 20px;" />
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=adiedev0&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiedev0&" alt="GitHub Streak" />
 </div>
