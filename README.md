@@ -99,17 +99,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdieDev0&radius=16&theme=redical&area=true&order=5&hide_border=false&custom_title=Adrian%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-
-
-###
-
-<img src="https://raw.githubusercontent.com/AdieDev0/AdieDev0/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-
-
-
+<div align="center">
+  
+![snake gif](https://github.com/AdieDev0/AdieDev0/blob/output/github-snake-dark.svg)
+</div>
