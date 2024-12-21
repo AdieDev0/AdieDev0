@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A Web Developer specializing in modern web technologies like React, Node.js, Express.js, and MongoDB. I enjoy building efficient, scalable applications and styling them with Tailwind CSS.</p>
+<h3 align="left">A Web Developer specializing in modern web technologies like React, Node.js, Express.js, and MongoDB. I enjoy building efficient, scalable applications and styling them with Tailwind CSS.</h3>
 
 ###
 
