@@ -101,5 +101,5 @@
 
 <div align="center">
   
-![snake gif](https://github.com/AdieDev0/AdieDev0/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/AdieDev0/AdieDev0/blob/output/github-snake.svg)
 </div>
