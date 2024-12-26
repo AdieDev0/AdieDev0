@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Passionate for modern, efficient, and scalable web application development. An absolute enthusiast with a bias toward cutting-edge technologies like React, Node.js, Express.js, and MongoDB. Ideas come alive through my solutions. Elegant, adaptable - I always love my products to style with beauty as well as flexibility offered by Tailwind CSS.</h3>
+<h3 align="left">Passionate for modern, efficient, and scalable web application development. An absolute enthusiast with a bias toward cutting-edge technologies like React, Node.js, Express.js, and MongoDB. Ideas come alive through my solutions. Elegant, adaptable - I always love my products to style with beauty as well as flexibility offered by Tailwind CSS...</h3>
 
 ###
 
